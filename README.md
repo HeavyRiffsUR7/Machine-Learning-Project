@@ -34,4 +34,4 @@ Overall quality, exterior and interior condition ratings
 Target variable: SalePrice (continuous)
 
 # Tools & Libraries
-Python Pandas NumPy Scikit-learn Seaborn Matplotlib
+Python · Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib
