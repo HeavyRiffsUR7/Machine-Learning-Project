@@ -8,15 +8,7 @@ Comprehensive exploratory data analysis (EDA) performed on both numerical and ca
 
 Multiple regression models tested and compared: Linear, Ridge, Lasso, ElasticNet.
 
-ElasticNet selected as the final model after achieving the best balance of bias and variance.
-
 Final model packaged into a fully reusable Scikit-learn pipeline, ready for production use.
-
-Achieved strong prediction accuracy:
-
-R²: 0.9075 (explaining ~91% of price variability)
-
-MAE: $15,462 (only ~8.5% average error relative to mean price)
 
 # Dataset Features
 The dataset includes 80+ features covering:
